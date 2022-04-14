@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route,Routes } from 'react-router-dom'
+import { Route } from 'react-router-dom'
 //普通的react组件
 import ComponentDemo from './demos/components/componentdemo';
 //react纯组件
